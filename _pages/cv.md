@@ -3,7 +3,7 @@
 Education
 ======
 * B.S. in Information Management and Information Systems, Hainan University, 2018
-* Ph.D in Management Science and Engineering, University of Science and Technology of China, 2024 (expected)
+* Ph.D in Management Science and Engineering (Information Systems), University of Science and Technology of China, 2024 (expected)
 
 Work experience
 ======
